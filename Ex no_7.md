@@ -16,8 +16,8 @@ To write a C Program to Print a right triangle star Pattern
 ```
 /*
 Program to Print a right triangle star Pattern
-Developed by: Logapoorani R
-RegisterNumber: 212223060136
+Developed by: Deeepak krishna J
+RegisterNumber: 212223060038
 
 #include <stdio.h>
 
